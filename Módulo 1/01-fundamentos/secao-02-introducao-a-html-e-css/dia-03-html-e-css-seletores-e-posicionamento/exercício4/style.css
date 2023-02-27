@@ -1,0 +1,15 @@
+div:hover {
+    border: 6px solid aqua;
+}
+
+div:nth-of-type(1){
+    background-color: blue;
+}
+
+div:nth-of-type(2) {
+    background-color: blueviolet;
+}
+
+div:nth-of-type(1) > h3 {
+    color:green;
+}
