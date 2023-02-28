@@ -42,6 +42,7 @@ if(salariobruto <= 1556.64){
         dedutível = 636.13;
         salarioliquido = salariobase - (salariobase * aliquotaIR - dedutível);
         console.log("seu salário é " + salarioliquido);
+        123
 
     }
 
