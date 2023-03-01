@@ -5,9 +5,20 @@ let higher;
 
 for (let index = 0; index < numbers.length; index += 1) {
     //console.log(numbers[index]);
-    sum += numbers[index];
-    average = sum / (numbers.length + 1)
+    //sum += numbers[index];
+    //average = sum / (numbers.length + 1)
+    for (let indexhigh = 0; numbers[indexhigh] <= numbers; indexhigh += 1){
+
+
+    }
+
+
 }
+
+
+
+
+
 
 if (average > 20) {
     console.log('Valor maior que 20');
